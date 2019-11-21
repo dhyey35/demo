@@ -17,6 +17,6 @@
     { "id": 1, "title": "Vishal", "amt": 560, "comment": "" },
     { "id": 2, "title": "Dhyey", "amt": 5000, "comment": "Tour" },
     { "id": 2, "title": "Akshay", "amt": 420, "comment": "" },
-    { "id": 2, "title": "Bhumil", "amt": 2500, "comment": "rent" },
+    { "id": 2, "title": "Bhumil", "amt": 2500, "comment": "rent" }
   ]
 }
