@@ -1,14 +1,22 @@
 {
   "Expense": [
     { "id": 1, "title": "Dinner", "amt": 200, "comment": "Testing" },
-    { "id": 1, "title": "Dinner", "amt": 200, "comment": "Testing1" },
-    { "id": 1, "title": "Lunch", "amt": 300, "comment": "Testing123" }
+    { "id": 2, "title": "Dinner", "amt": 200, "comment": "Testing1" },
+    { "id": 3, "title": "Lunch", "amt": 300, "comment": "Testing123" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "Income": [
+    { "id": 1, "title": "Salary", "amt": 50000, "comment": "October Salary" },
+    { "id": 2, "title": "Share market", "amt": 20000, "comment": "Stock trading" }
   ],
-  "profile": {
-    "name": "typicode"
-  }
+  "Debtors": [
+    { "id": 1, "title": "Dinesh", "amt": 6000, "comment": "Activa repairs" },
+    { "id": 2, "title": "Bhautik", "amt": 700, "comment": "Canteen" },
+    { "id": 3, "title": "Ishan", "amt": 50, "comment": "Ice cream" }
+  ],
+  "Creditors": [
+    { "id": 1, "title": "Vishal", "amt": 560, "comment": "" },
+    { "id": 2, "title": "Dhyey", "amt": 5000, "comment": "Tour" },
+    { "id": 2, "title": "Akshay", "amt": 420, "comment": "" },
+    { "id": 2, "title": "Bhumil", "amt": 2500, "comment": "rent" },
+  ]
 }
