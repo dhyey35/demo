@@ -2,7 +2,7 @@
   "Expense": [
     { "id": 1, "title": "Dinner", "amt": 200 },
     { "id": 1, "title": "Dinner", "amt": 200 },
-    { "id": 1, "title": "Lunch", "amt": 300 },
+    { "id": 1, "title": "Lunch", "amt": 300 }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
